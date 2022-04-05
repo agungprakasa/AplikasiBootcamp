@@ -1,0 +1,104 @@
+[19-Mar-2022 09:07:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_014322_create_pelanggans_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_014322_create_pelanggans_table.php on line 7
+[19-Mar-2022 09:07:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_014322_create_pelanggans_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_014322_create_pelanggans_table.php on line 7
+[19-Mar-2022 09:07:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_014322_create_pelanggans_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_014322_create_pelanggans_table.php on line 7
+[19-Mar-2022 09:07:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php on line 7
+[19-Mar-2022 09:07:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php on line 7
+[19-Mar-2022 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php on line 7
+[19-Mar-2022 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php on line 7
+[19-Mar-2022 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php on line 7
+[19-Mar-2022 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php on line 7
+[19-Mar-2022 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php on line 7
+[19-Mar-2022 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php on line 7
+[19-Mar-2022 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php on line 7
+[19-Mar-2022 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php on line 7
+[19-Mar-2022 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_141411_create_menus_table.php on line 7
+[19-Mar-2022 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_014322_create_pelanggans_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_014322_create_pelanggans_table.php on line 7
+[19-Mar-2022 09:07:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php on line 7
+[19-Mar-2022 09:07:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php on line 7
+[19-Mar-2022 09:07:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_014322_create_pelanggans_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_014322_create_pelanggans_table.php on line 7
+[19-Mar-2022 09:07:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_16_230826_create_kategoris_table.php on line 7
+[19-Mar-2022 09:07:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php on line 7
+[19-Mar-2022 09:07:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php on line 7
+[19-Mar-2022 09:07:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php on line 7
+[19-Mar-2022 09:07:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php on line 7
+[19-Mar-2022 09:07:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php on line 7
+[19-Mar-2022 09:07:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php on line 7
+[19-Mar-2022 09:07:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/database/migrations/2022_03_17_232345_user.php on line 7

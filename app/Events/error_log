@@ -1,0 +1,35 @@
+[19-Mar-2022 12:36:00 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/mtdt/public_html/lumenAPI/app/Events/Event.php on line 7
+[19-Mar-2022 12:36:00 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/mtdt/public_html/lumenAPI/app/Events/Event.php on line 7
+[19-Mar-2022 12:36:00 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Events\Event' not found in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php on line 5
+[19-Mar-2022 12:36:00 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Events\Event' not found in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php on line 5
+[19-Mar-2022 12:36:00 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Events\Event' not found in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php on line 5
+[19-Mar-2022 12:36:00 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/mtdt/public_html/lumenAPI/app/Events/Event.php on line 7
+[19-Mar-2022 12:36:00 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Events\Event' not found in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php on line 5
+[19-Mar-2022 12:36:01 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/mtdt/public_html/lumenAPI/app/Events/Event.php on line 7
+[19-Mar-2022 12:36:01 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Events\Event' not found in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php on line 5
+[19-Mar-2022 12:36:01 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Events\Event' not found in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php on line 5
+[19-Mar-2022 12:36:01 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Events\Event' not found in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mtdt/public_html/lumenAPI/app/Events/ExampleEvent.php on line 5
+[19-Mar-2022 12:36:02 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/mtdt/public_html/lumenAPI/app/Events/Event.php on line 7
+[19-Mar-2022 12:36:02 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/mtdt/public_html/lumenAPI/app/Events/Event.php on line 7
+[19-Mar-2022 12:36:02 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/mtdt/public_html/lumenAPI/app/Events/Event.php on line 7
